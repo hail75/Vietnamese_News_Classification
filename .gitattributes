@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+train_df.csv filter=lfs diff=lfs merge=lfs -text
+test_df.csv filter=lfs diff=lfs merge=lfs -text
+val_df.csv filter=lfs diff=lfs merge=lfs -text
